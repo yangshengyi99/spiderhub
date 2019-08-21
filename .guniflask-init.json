@@ -1,0 +1,7 @@
+{
+  "authentication_type": "jwt",
+  "guniflask_version": "0.3.1",
+  "jwt_secret": "YA_QhCmUvcSRNqbFl5RHpDixvTGyOFOgLvc8HEML1g0",
+  "port": 8023,
+  "project_name": "spiderhub"
+}
